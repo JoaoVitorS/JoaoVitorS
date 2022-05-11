@@ -4,7 +4,6 @@
 
 - 🔭 Atualmente trabalho como desenvolvedor full-stack
 - ☕ Estudando GraphQL e Typescript
-- 📚 Leitor nas horas vagas
 
 <div>
   <a href="https://github.com/JoaoVitorS">
